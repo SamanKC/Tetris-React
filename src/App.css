@@ -1,0 +1,17 @@
+.maincontainer {
+  width: 40%;
+  height: 90vh;
+  min-width: 80%;
+  background-color: #ffffff;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 10px;
+  vertical-align: middle;
+  margin:0 auto;
+  position: relative;
+  margin-top: 10px;
+}
